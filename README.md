@@ -36,11 +36,11 @@ app.listen(3000)
 
 # Instructions
 
-Open Terminal, cd into the directory type 
+Open Terminal, cd into the directory where your index.js file is and type :
 ```bash
 node index.js
 ```
-Test getting a token by opening another tab in Terminal and typing 
+Test getting a token by opening another tab in Terminal and typing :
 ```bash
 curl http://localhost:3000
 ```
