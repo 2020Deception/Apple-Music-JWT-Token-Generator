@@ -33,6 +33,7 @@ ENTER_YOUR_CERTIFICATE_HERE
 
 app.listen(3000)
 ```
+
 # Instructions
 
 Open Terminal, cd into the directory type 
@@ -43,3 +44,7 @@ Test getting a token by opening another tab in Terminal and typing
 ```bash
 curl http://localhost:3000
 ```
+
+# Notes
+
+You must mave node and npm to use this. <https://www.npmjs.com> is a good starting point if you need more information.
