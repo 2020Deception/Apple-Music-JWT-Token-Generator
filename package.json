@@ -1,0 +1,11 @@
+{
+  "name": "AppleMusicToken",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsonwebtoken": "^8.0.1",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "index.js"
+  }
+}
